@@ -1,1 +1,3 @@
-KKTicketTest
+## KKTicket
+1.本程式為實驗與學術性質，並不做商業行為
+
